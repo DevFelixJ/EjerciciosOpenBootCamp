@@ -1,7 +1,8 @@
 package com.ejercicios;
 
 public class Ejercicio1 {
-
+//En este ejercicio se pretende hacer un metodo para realizar la suma de tres valores INT y la creacion de una clase 
+//para incrementar el numero de puertas de un coche
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int param1 = 1;
